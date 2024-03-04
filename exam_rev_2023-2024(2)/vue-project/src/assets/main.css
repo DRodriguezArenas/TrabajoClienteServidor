@@ -1,0 +1,20 @@
+@import './base.css';
+
+:root{
+  --bg-color: #6F6C78;
+  --second-bg-color: #751807;
+  --text-color: #fff;
+  --main-color: #FFAB0D;
+  --g-color: #800e0e;
+  --h-color: #e1bc17;
+  --r-color: #1749e1;
+  --s-color: #0f951c;
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
